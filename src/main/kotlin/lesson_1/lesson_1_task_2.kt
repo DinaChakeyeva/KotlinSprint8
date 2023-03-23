@@ -7,3 +7,7 @@ fun main (){
     println (thank_Message)
     var orderOfWorkers:Int=2000
     println (orderOfWorkers)
+    //1 worker quit
+    var orderOfWorkers=1999
+    println (orderOfWorkers)
+}
