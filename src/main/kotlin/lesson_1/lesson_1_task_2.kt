@@ -1,0 +1,9 @@
+package lesson_1
+
+fun main (){
+    var order_Sum: Int = 75
+    val thank_Message: String = "Thank you for order!"
+    println (order_Sum)
+    println (thank_Message)
+    var orderOfWorkers:Int=2000
+    println (orderOfWorkers)
